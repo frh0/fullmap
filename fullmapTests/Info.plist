@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>allow acess to the app jghgyhjgjbl</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>allow acess to the app hghvcghvhj</string>
+	<key>CFBundleIdentifier</key>
+	<string>NSLocationWhenInUseUsageDescription</string>
+	<key>CFBundleExecutable</key>
+	<string>Privacy - Location When In Use Usage Description</string>
+	<key>Scene Configuration</key>
+	<string></string>
+</dict>
+</plist>
